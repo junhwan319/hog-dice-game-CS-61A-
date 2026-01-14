@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+.ok_storage.db
+.ok_history
+.ok_messages
